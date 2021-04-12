@@ -1,0 +1,46 @@
+{
+	"emp":[
+		{
+		"firstName":"Will",
+		"lastName":"Smith",
+		"age":"40",
+		"address": "abc",
+		"salary":"5000"
+		},
+		{
+        "firstName": "Joe",
+        "lastName": "Will",
+        "address": "hanesdr",
+        "age": "25",
+        "salary": "4000"
+      },
+      {
+        "firstName": "Jon",
+        "lastName": "Means",
+        "address": "greg",
+        "age": "39",
+        "salary": "4500"
+      },
+      {
+        "firstName": "Lin",
+        "lastName": "Den",
+        "address": "westroadTX",
+        "age": "35",
+        "salary": "3500"
+      },
+      {
+        "firstName": "Steve",
+        "lastName": "Den",
+        "address": "Westway",
+        "age": "35",
+        "salary": "9800"
+      },
+      {
+        "firstName": "Frank",
+        "lastName": "Baxter",
+        "address": "Kenwood",
+        "age": "38",
+        "salary": "2800"
+      }
+		]
+}
